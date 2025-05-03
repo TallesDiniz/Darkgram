@@ -44,7 +44,7 @@ body{
 }
 
 .left{
-    background-image: url("/assets/instagram-web-lox-image.png");
+    background-image: url("assets/instagram-web-lox-image.png");
     background-size: 450px;
     background-repeat: no-repeat;
     background-position: center;
